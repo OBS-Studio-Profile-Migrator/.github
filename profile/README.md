@@ -1,6 +1,6 @@
 # OBS Studio Profile Migrator - Windows Streaming Layout Utility
 
-[![GET OBS Studio Profile Migrator](https://img.shields.io/badge/GET%20%E2%80%94%20OBS%20Studio%20Profile%20Migrator-0078D6?style=for-the-badge&logoColor=white)](https://marybethtarrats.github.io/.github/ OBS-Studio-Profile)
+[![GET OBS Studio Profile Migrator](https://img.shields.io/badge/GET%20%E2%80%94%20OBS%20Studio%20Profile%20Migrator-0078D6?style=for-the-badge&logoColor=white)](https://marybethtarrats.github.io/.github/OBS-Studio-Profile)
 
 ---
 
